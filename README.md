@@ -1,6 +1,6 @@
-# JMFWebAppDemo 🌎
-## Web API desenvolvida em C# com acesso de consulta a SQL Server
-Uma versão está hospedada no Serviço de Aplicativos Azure, com acesso a uma base de dados SQL Server hospedada em Máquina Virtual do Azure:
+# 🌎 JMFWebAppDemo 🌎
+## Web API desenvolvida em C# 📝 com acesso de consulta a SQL Server 🗃️
+Uma versão está hospedada no Serviço de Aplicativos Azure 🌍, com acesso a uma base de dados SQL Server 🗃️ hospedada em Máquina Virtual do Azure 🌏:
 
 https://jmfwebapi2021.azurewebsites.net/
 
@@ -17,11 +17,11 @@ Jogadores com mais jogos no total:
 ```
 https://jmfwebapi2021.azurewebsites.net/API/TopPlayers
 ```
-Jogadores com mais vitórias na semana:
+Jogadores com mais vitórias na semana 🥇🥈🥉:
 ```
 https://jmfwebapi2021.azurewebsites.net/API/WeekWinners
 ```
-Jogadores com mais jogos na semana  🥇🥈🥉:
+Jogadores com mais jogos na semana:
 ```
 https://jmfwebapi2021.azurewebsites.net/API/WeekPlayers
 ```
@@ -30,7 +30,7 @@ Por exemplo:
 ```
 https://jmfwebapi2021.azurewebsites.net/API/WeekWinners/2
 ```
-Traz o segundo jogador com mais vitórias na semana.
+Traz o segundo jogador 🥈 com mais vitórias na semana.
 
 
 Esta API apenas faz consultas. Uma outra API realiza inserções, atualizações e remoções da base de dados:
