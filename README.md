@@ -6,13 +6,9 @@
 <h1 align="center"> 🌎 JMFWebAppDemo 🌎</h1>
 
 ## Web API desenvolvida em C# 📝 com acesso de consulta a SQL Server 🗃️
-Uma versão está hospedada no Serviço de Aplicativos Azure 🌍, com acesso a uma base de dados SQL Server 🗃️ hospedada em Máquina Virtual do Azure 🌏:
+Uma versão está hospedada no Serviço de Aplicativos Azure 🌍, com acesso a uma base de dados SQL Server 🗃️ hospedada em Máquina Virtual do Azure 🌏: https://jmfwebapi2021.azurewebsites.net/
 
-https://jmfwebapi2021.azurewebsites.net/
-
-Documentação da API:
-
-https://jmfwebapi2021.azurewebsites.net/Help
+Documentação da API: https://jmfwebapi2021.azurewebsites.net/Help
 
 ---
 
