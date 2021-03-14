@@ -50,18 +50,15 @@ https://github.com/JimKirk95/JMFWebAppUpdtDemo
 
 ---
 
-## Autor
 <!---
+## Autor
 <a href="http://gg.gg/jpwork">
  <img src="https://drive.google.com/uc?export=view&id=17_6ZWPP0DJx4fiLnO4EiWNFaNRaB2Abp" width="100px;" alt=""/>
  <br />
  <sub><b>Jackson Matsuura</b></sub></a>
  <br />
 ---> 
- 
-[![Github Badge](https://img.shields.io/badge/-Github/JimKirk95-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JimKirk95)](https://github.com/JimKirk95)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/jacksonmatsuura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonmatsuura/)](https://www.linkedin.com/in/jacksonmatsuura/)
-[![Gmail Badge](https://img.shields.io/badge/-jackson.matsuura@Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_emjackson.matsuura@gmail.comail)](mailto:jackson.matsuura@gmail.com)
+## Autor [![Github Badge](https://img.shields.io/badge/-Github/JimKirk95-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JimKirk95)](https://github.com/JimKirk95) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/jacksonmatsuura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonmatsuura/)](https://www.linkedin.com/in/jacksonmatsuura/) [![Gmail Badge](https://img.shields.io/badge/-jackson.matsuura@Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_emjackson.matsuura@gmail.comail)](mailto:jackson.matsuura@gmail.com)
 <!---
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+12+981082413&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+12+981082413&text=Hello!)
 --->
