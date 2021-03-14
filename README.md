@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://gg.gg/jpwork">
-    <img src="https://drive.google.com/uc?export=view&id=1e59cCO6e4Uu1oeO0YFUYwV58rVM_ABMQ" alt="jpwork"/>
+    <img src="https://drive.google.com/uc?export=view&id=1e59cCO6e4Uu1oeO0YFUYwV58rVM_ABMQ">
   </a>
 </p>
 <h1 align="center">JMFWebAppDemo</h1>
