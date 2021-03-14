@@ -8,31 +8,33 @@ Documentação da API:
 
 https://jmfwebapi2021.azurewebsites.net/Help
 
+---
+
 ## Chamadas `GET` da API:
-Jogadores com mais vitórias no total 🥇🥈🥉:
+Jogadores com mais vitórias no total 🥇🥈🥉 ([experimente aqui](https://jmfwebapi2021.azurewebsites.net/API/TopWinners "GET TopWinners")):
 ```
 https://jmfwebapi2021.azurewebsites.net/API/TopWinners
 ```
-Jogadores com mais jogos no total: 
+Jogadores com mais jogos no total ([experimente aqui](https://jmfwebapi2021.azurewebsites.net/API/TopPlayers "GET TopPlayers")): 
 ```
 https://jmfwebapi2021.azurewebsites.net/API/TopPlayers
 ```
-Jogadores com mais vitórias na semana 🥇🥈🥉:
+Jogadores com mais vitórias na semana 🥇🥈🥉 ([experimente aqui](https://jmfwebapi2021.azurewebsites.net/API/WeekWinners "GET WeekWinners")):
 ```
 https://jmfwebapi2021.azurewebsites.net/API/WeekWinners
 ```
-Jogadores com mais jogos na semana:
+Jogadores com mais jogos na semana ([experimente aqui](https://jmfwebapi2021.azurewebsites.net/API/WeekPlayers "GET WeekPlayers")):
 ```
 https://jmfwebapi2021.azurewebsites.net/API/WeekPlayers
 ```
 Passando um número de 1 a 3 em qualquer uma dessas chamadas, apenas o jogador nessa colocação é retornado.
-Por exemplo:
+Por exemplo ([experimente aqui](https://jmfwebapi2021.azurewebsites.net/API/WeekWinners/2 "GET 2nd WeekWinner")):
 ```
 https://jmfwebapi2021.azurewebsites.net/API/WeekWinners/2
 ```
 Traz o segundo jogador 🥈 com mais vitórias na semana.
 
-
+---
 Esta API apenas faz consultas. Uma outra API realiza inserções, atualizações e remoções da base de dados:
 
 https://github.com/JimKirk95/JMFWebAppUpdtDemo
