@@ -42,3 +42,6 @@ https://github.com/JimKirk95/JMFWebAppUpdtDemo
 - 👀 Solução desenvolvida no Microsoft Visual Studio Community 2019, Versão 16.9.1
 - 👀 Projeto baseado no modelo "Aplicativo Web ASP.NET (.NET Framework)" com C#
 - 👀 Hospedado na conta gratuita do Azure. O SQL Server deve funcionar até 10 de abril de 2021.
+
+---
+## 📝 Licença [MIT](./LICENSE).
